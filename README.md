@@ -3,20 +3,13 @@ Ruby+Angular stock footage purchasing and licensing app
 
 user story
 
-1.browse video thumbnails
-
-2.search for:  content[tags]
-
+1. browse video thumbnails
+2. search for:  content[tags]
               *type[aerial,land,underwater,space]
-
               *movement[fixed,pan,tilt,sideways,forward,backward,complex]
-
               *speed[normal,timelapse,slowmo]
-
               *length[short,long]
-
               *location[city,country,gps]
-
               *atributes[fps,camera,dimension,size]
 
 3.browse video thumbails
