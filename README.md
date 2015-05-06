@@ -11,7 +11,6 @@ user story
               *movement[fixed,pan,tilt,sideways,forward,backward,complex]
 
               *speed[normal,timelapse,slowmo]
-
               *length[short,long]
 
               *location[city,country,gps]
