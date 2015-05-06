@@ -26,7 +26,6 @@ In the spirit of open source software development, jQuery always encourages comm
 8. pay
 9. download
 
-
 Modules
 --------------------------------------
 
