@@ -1,4 +1,5 @@
-[stock_app] — ###Ruby+Angular stock footage purchasing and licensing app
+[stock_app]
+###Ruby+Angular stock footage purchasing and licensing app
 ==================================================
 
 user story
