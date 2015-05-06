@@ -1,7 +1,7 @@
 # stock_app
 Ruby+Angular stock footage purchasing and licensing app
 
-user story
+user story\n
 -browse video thumbnails
 -search for:  content[tags]
               type[aerial,land,underwater,space]
