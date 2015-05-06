@@ -2,6 +2,7 @@
 Ruby+Angular stock footage purchasing and licensing app
 
 ##user story
+
 1. browse video thumbnails
 2. search for:  content[tags]
               *type[aerial,land,underwater,space]
@@ -20,6 +21,7 @@ Ruby+Angular stock footage purchasing and licensing app
 
 
 ##modules
+
 *server fs rw <=> json
 *local storage <=> json
 *json search
