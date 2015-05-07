@@ -1,6 +1,6 @@
 [stock_app]
 ==================================================
-Ruby+Angular stock footage purchasing and licensing app
+PHP+Angular stock footage purchasing and licensing app
 
 User Story
 --------------------------------------
