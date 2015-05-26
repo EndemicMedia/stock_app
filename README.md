@@ -29,10 +29,10 @@ In the spirit of open source software development, jQuery always encourages comm
 Modules
 --------------------------------------
 
-- [ ] server fs rw <=> json
+- [X] server fs rw <=> json
 - [ ] local storage <=> json
 - [ ] json search
-- [ ] video player with shotlist
-- [ ] license handler (generate, email, cost)
-- [ ] paypal integration
+- [X] video player with shotlist
+- [/] license handler (generate, email, cost)
+- [X] paypal integration
 - [ ] bitcoin integration
