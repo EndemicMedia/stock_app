@@ -33,6 +33,7 @@ Modules
 - [ ] local storage <=> json
 - [ ] json search
 - [X] video player with shotlist
-- [/] license handler (generate, email, cost)
+- [X] license handler (generate, cost)
+- [ ] Receive payment, generate download file, email contract
 - [X] paypal integration
 - [ ] bitcoin integration
